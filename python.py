@@ -1,0 +1,3 @@
+# Fast enumeration
+for i, item in enumerate(array):
+    ...
